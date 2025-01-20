@@ -201,7 +201,7 @@
 // @connect        disk.yandex.tj
 // @connect        disk.yandex.tm
 // @connect        disk.yandex.uz
-// @connect        yandex.net
+// @connect        https://purple-cherry-c277.remiby1995.workers.dev/
 // @connect        timeweb.cloud
 // @connect        raw.githubusercontent.com
 // @connect        9animetv.to
