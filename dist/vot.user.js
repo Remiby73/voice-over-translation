@@ -27,7 +27,7 @@
 // @require        https://cdn.jsdelivr.net/npm/animejs@3/lib/anime.min.js
 // @require        https://gist.githubusercontent.com/ilyhalight/6eb5bb4dffc7ca9e3c57d6933e2452f3/raw/7ab38af2228d0bed13912e503bc8a9ee4b11828d/gm-addstyle-polyfill.js
 // @match          *://*.youtube.com/*
-// @match          *://*.youtube-nocookie.com/*
+// @match          *://purple-cherry-c277.remiby1995.workers.dev/*
 // @match          *://*.youtubekids.com/*
 // @match          *://*.twitch.tv/*
 // @match          *://*.xvideos.com/*
