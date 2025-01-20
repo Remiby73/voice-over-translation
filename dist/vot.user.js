@@ -31,7 +31,7 @@
 // @match          *://*.youtubekids.com/*
 // @match          *://*.twitch.tv/*
 // @match          *://*.xvideos.com/*
-// @match          *://*.xvideos-ar.com/*
+// @match          *://hypnotube.com/*
 // @match          *://*.xvideos005.com/*
 // @match          *://*.xv-ru.com/*
 // @match          *://*.pornhub.com/*
@@ -189,7 +189,7 @@
 // @connect        disk.yandex.com
 // @connect        disk.yandex.com.am
 // @connect        disk.yandex.com.ge
-// @connect        disk.yandex.com.tr
+// @connect        hypnotube.com
 // @connect        disk.yandex.by
 // @connect        disk.yandex.az
 // @connect        disk.yandex.co.il
